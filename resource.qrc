@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/copy_symbol.png</file>
+        <file>images/main_key .png</file>
+        <file>images/rand.png</file>
+        <file>images/key-22.jpg</file>
+        <file>images/refresh.svg</file>
+        <file>images/sace_sym.png</file>
+        <file>images/save.png</file>
+        <file>images/remove.png</file>
+        <file>images/Logo (2).png</file>
+    </qresource>
+</RCC>
