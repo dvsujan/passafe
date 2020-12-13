@@ -17,9 +17,7 @@ Down the Passafe Password manager from [Here](https://github.com/dvsujan/passafe
 
 # Lisence
 
-MIT License
-
-Copyright (c) 2020 dvsujan
+Copyright © 2020 dvsujan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
