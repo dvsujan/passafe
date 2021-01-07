@@ -3,7 +3,7 @@ This is an password Manager Based on QT Framework for c++
 
 ## Download
 
-Down the Passafe Password manager from [Here](https://github.com/dvsujan/passafe/releases).
+You can download the latest version of passafe from [Here](https://github.com/dvsujan/passafe/releases).
 
 
 ## Screen shots 
